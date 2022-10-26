@@ -10,7 +10,6 @@ let s:grey1  = '#505050'
 let s:grey2  = '#9a9a9a'
 let s:grey3  = '#b0b0b0'
 let s:white  = '#d7d7d7'
-
 let s:red    = '#ff5f5f'
 let s:green  = '#afd787'
 let s:yellow = '#d7d7af'
